@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-13T14:02:13.521577500Z</date>
+  <millis>1689256933521</millis>
+  <nanos>577500</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>Sem2.Main3</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-13T14:03:28.617172500Z</date>
+  <millis>1689257008617</millis>
+  <nanos>172500</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>Sem2.Main3</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-13T14:12:29.102174800Z</date>
+  <millis>1689257549102</millis>
+  <nanos>174800</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>Sem2.Main3</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-13T14:15:23.823294400Z</date>
+  <millis>1689257723823</millis>
+  <nanos>294400</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>Sem2.Main3</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+июл. 13, 2023 5:17:54 PM Sem2.Main3 writeToFile
+INFO: Запись успешно выполнена
+июл. 13, 2023 5:21:24 PM Sem2.Main3 writeToFile
+INFO: Запись успешно выполнена
