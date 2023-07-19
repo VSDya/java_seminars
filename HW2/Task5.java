@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.logging.*;
 
 import HW1.Task2;
-import HW2.lib;
+import HW3.lib;
 public class Task5 {
     public static void main(String[] args) throws IOException {
         Logger logger = Logger.getLogger(Task2.class.getName());
