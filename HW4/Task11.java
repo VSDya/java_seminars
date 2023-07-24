@@ -11,7 +11,6 @@ dequeue() - возвращает первый элемент из очереди
 first() - возвращает первый элемент из очереди, не удаляя.
 */
 
-
 public class Task11 {
     public static void main(String[] args) {
         LinkedList<Integer> ls = new LinkedList<>(Arrays.asList(1,2,3,4,5));
